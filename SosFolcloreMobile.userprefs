@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Gerenciador.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="102" Column="3" />
+      <File FileName="Assets/Scripts/CameraFollow.cs" Line="33" Column="1" />
+      <File FileName="Assets/Scripts/Folha.cs" Line="26" Column="17" />
+      <File FileName="Assets/Scripts/Gerenciador.cs" Line="27" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
